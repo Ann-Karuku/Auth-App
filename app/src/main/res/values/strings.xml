@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Auth App</string>
+    <string name="hello">Hi There!</string>
+    <string name="login">Welcome Back</string>
+    <string name="forgot_pass">Forgot Password?</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="confirm_pass">Confirm Password</string>
+    <string name="sign_up">Create An Account</string>
+</resources>
